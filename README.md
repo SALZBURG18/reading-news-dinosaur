@@ -35,7 +35,7 @@
 | **Framework web**      | Express.js                   |
 | **Cơ sở dữ liệu**       | MongoDB / MySQL              |
 | **Giao diện người dùng**| HTML, CSS, JavaScript        |
-| **Thư viện khác**       | Mongoose, Sequelize, JWT, Bootstrap/TailwindCSS |
+| **Thư viện khác**       | Mongoose, Bootstrap |
 
 ---
 
