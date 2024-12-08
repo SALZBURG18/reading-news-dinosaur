@@ -33,9 +33,9 @@
 |------------------------|-------------------------------|
 | **Ngôn ngữ lập trình** | Node.js                      |
 | **Framework web**      | Express.js                   |
-| **Cơ sở dữ liệu**       | MongoDB / MySQL              |
+| **Cơ sở dữ liệu**       | MongoDB              |
 | **Giao diện người dùng**| HTML, CSS, JavaScript        |
-| **Thư viện khác**       | Mongoose, Bootstrap |
+| **Thư viện khác**       | Mongoose, Bootstrap, Express HandleBars, Nodemon, Morgan |
 
 ---
 
