@@ -1,0 +1,29 @@
+{
+  "name": "blog_news_dinosaur",
+  "version": "1.0.0",
+  "description": "Reading news about Dinosaur",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SALZBURG18/reading-news-dinosaur.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "javascripts",
+    "dinosaur-with-nodejs"
+  ],
+  "author": "dino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SALZBURG18/reading-news-dinosaur/issues"
+  },
+  "homepage": "https://github.com/SALZBURG18/reading-news-dinosaur#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
