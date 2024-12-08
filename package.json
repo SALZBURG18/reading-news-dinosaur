@@ -4,7 +4,7 @@
   "description": "Reading news about Dinosaur",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon --inspect index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,5 +25,8 @@
   "homepage": "https://github.com/SALZBURG18/reading-news-dinosaur#readme",
   "dependencies": {
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
