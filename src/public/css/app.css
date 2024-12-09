@@ -11,6 +11,10 @@ footer {
   line-height: 2.4;
 }
 
+h3 {
+  color: red;
+}
+
 .dinosaur-info img {
   width: 100%;
   height: 100%;

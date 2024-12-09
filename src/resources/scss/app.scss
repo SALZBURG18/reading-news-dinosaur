@@ -1,3 +1,5 @@
+@use 'variables' as var;
+
 header,
 footer {
   background-color: rgb(32, 31, 31);
@@ -8,6 +10,10 @@ footer {
   align-items: center;
   text-align: center;
   line-height: 2.4;
+}
+
+h3 {
+    color: var.$text-color;
 }
 
 .dinosaur-info img {
