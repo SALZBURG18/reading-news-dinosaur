@@ -8,7 +8,7 @@ const PORT       = 3000;
 app.use(express.static(path.join(__dirname, 'public')));
 
 // HTTP combie logger
-// app.use(morgan('combined'));
+app.use(morgan('combined'));
 
 // Template engine
 app.engine('hbs', handlebars.engine({
