@@ -5,7 +5,9 @@ const handlebars = require('express-handlebars');
 const app        = express();
 const PORT       = 3000;
 
-// HTTP combie
+app.use(express.static(path.join(__dirname, 'public')));
+
+// HTTP combie logger
 // app.use(morgan('combined'));
 
 // Template engine
