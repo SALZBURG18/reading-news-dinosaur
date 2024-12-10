@@ -1,17 +1,5 @@
 @use 'variables' as var;
 
-header,
-footer {
-  background-color: rgb(32, 31, 31);
-  color: white;
-  height: 56px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  line-height: 2.4;
-}
-
 h3 {
     color: var.$text-color;
 }
