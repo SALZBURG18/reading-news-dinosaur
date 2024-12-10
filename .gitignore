@@ -1,3 +1,2 @@
-/node_modules
-
-src/pulic/css/
+src/public/css/
+node_modules/
